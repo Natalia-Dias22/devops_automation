@@ -19,13 +19,6 @@
 > **[DevOps Automation - Sem Enrolação na Udemy](https://www.udemy.com/course/devops-automacao-sem-enrolacao/?referralCode=28E4F89140C44D63D605)**
 
 ---
-
-## Sobre o Curso
-
-Este curso é 100% prático e direto ao ponto, focado em preparar profissionais para automatizar infraestrutura, pipelines e ambientes cloud utilizando as principais ferramentas do mercado DevOps.
-
----
-
 ## Estrutura do Repositório
 
 ### 00. Introdução
